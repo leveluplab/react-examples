@@ -1,0 +1,30 @@
+.input-field-bugs-key {
+    width: 1000px;
+    margin: 0 auto;
+    padding: 100px 0;
+
+    .bug-list {
+        .item-list {
+            position: relative;
+            width: 200px;
+            margin: 10px 0;
+        }
+    }
+
+    .render-text {
+        pointer-events: none;
+    }
+
+    .text-input {
+        padding: 5px;
+        margin-right: 10px;
+        display: inline-block;
+    }
+
+    .btn {
+        padding: 5px;
+        display: inline-block;
+        cursor: pointer;
+    }
+
+}
